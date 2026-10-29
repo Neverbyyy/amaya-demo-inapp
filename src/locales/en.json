@@ -2925,5 +2925,12 @@
     "lifetime_title": "Lifetime",
     "lifetime_only": "Only",
     "one_time_payment": "One-time payment"
+  },
+  "common": {
+    "button": {
+      "continue": {
+        "default": "Continue"
+      }
+    }
   }
 }

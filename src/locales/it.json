@@ -2723,5 +2723,13 @@
     "lifetime_title": "Per sempre",
     "lifetime_only": "Solo",
     "one_time_payment": "Paga una sola volta"
+  },
+  "1000+ educational math games": "1000+ giochi educativi di matematica",
+  "common": {
+    "button": {
+      "continue": {
+        "default": "Continua"
+      }
+    }
   }
 }
