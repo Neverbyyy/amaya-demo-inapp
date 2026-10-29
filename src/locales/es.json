@@ -2724,5 +2724,13 @@
     "lifetime_title": "Plan vitalicio",
     "lifetime_only": "Solo",
     "one_time_payment": "Paga una vez"
+  },
+  "1000+ educational math games": "1000+ juegos educativos de matemáticas",
+  "common": {
+    "button": {
+      "continue": {
+        "default": "Continuar"
+      }
+    }
   }
 }
