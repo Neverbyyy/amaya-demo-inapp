@@ -2724,12 +2724,5 @@
     "lifetime_only": "Solo",
     "one_time_payment": "Paga una sola volta"
   },
-  "1000+ educational math games": "1000+ giochi educativi di matematica",
-  "common": {
-    "button": {
-      "continue": {
-        "default": "Continua"
-      }
-    }
-  }
+  "1000+ educational math games": "1000+ giochi educativi di matematica"
 }
