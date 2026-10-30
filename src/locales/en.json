@@ -823,7 +823,7 @@
 
   "price_week": "{0}/week",
   "only_price_week": "only {0}/week",
-  "1_week_plan": "1 week!!!",
+  "1_week_plan": "1 week",
   "6_months_plan": "6 months",
   "7_day_trial": "7-day free trial",
   "under_text_6_months": "<b>{0} days FREE</b>, then {1}/6 months.",
@@ -2928,6 +2928,9 @@
   },
   "app": {
     "farm": {
+      "banner": {
+        "title": "Banner title"
+      },
       "onboarding": {
         "title_1": "onboarding title"
       }
