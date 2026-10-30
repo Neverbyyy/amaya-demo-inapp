@@ -571,7 +571,7 @@
   "more_apps_plus_body_farm": "Pay once and get lifetime access to this app and over {0} other educational apps!",
   "more_apps_plus_body_farm_amazing": "Pay once and get lifetime access to this app and over {0} other amazing apps!",
   "m9_play_today": "Play today, learn for life with Play & Learn!",
-  "1000+ educational math games": "1000+ educational math games",
+  "1000+ educational math games": "1000+ educational math gamesss",
   "Personalizer learning plan": "Personalizer learning plan",
   "m9_play_offline": "Play offline anytime, anywhere",
   "m9_add_free_space": "A safe, add-free space",
@@ -823,7 +823,7 @@
 
   "price_week": "{0}/week",
   "only_price_week": "only {0}/week",
-  "1_week_plan": "1 week",
+  "1_week_plan": "1 week!!!",
   "6_months_plan": "6 months",
   "7_day_trial": "7-day free trial",
   "under_text_6_months": "<b>{0} days FREE</b>, then {1}/6 months.",
@@ -2925,5 +2925,12 @@
     "lifetime_title": "Lifetime",
     "lifetime_only": "Only",
     "one_time_payment": "One-time payment"
+  },
+  "app": {
+    "farm": {
+      "onboarding": {
+        "title_1": "onboarding title"
+      }
+    }
   }
 }
