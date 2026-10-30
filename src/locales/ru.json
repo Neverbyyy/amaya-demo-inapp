@@ -2867,5 +2867,12 @@
     "lifetime_title": "Навсегда",
     "lifetime_only": "Всего",
     "one_time_payment": "Платите один раз"
+  },
+  "app": {
+    "farm": {
+      "onboarding": {
+        "title_1": "Заголовок для анбординга"
+      }
+    }
   }
 }
