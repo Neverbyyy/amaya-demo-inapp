@@ -2719,5 +2719,12 @@
     "lifetime_only": "Slechts",
     "one_time_payment": "Betaal één keer"
   },
-  "1000+ educational math games": "1000+ educatieve rekenspellen"
+  "1000+ educational math games": "1000+ educatieve rekenspellen",
+  "app": {
+    "farm": {
+      "banner": {
+        "title": "Bannertitel"
+      }
+    }
+  }
 }

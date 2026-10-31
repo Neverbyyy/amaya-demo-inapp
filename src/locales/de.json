@@ -2725,5 +2725,12 @@
     "lifetime_only": "Nur",
     "one_time_payment": "Bezahlen Sie einmal"
   },
-  "1000+ educational math games": "1000+ lehrreiche Mathespiele"
+  "1000+ educational math games": "1000+ lehrreiche Mathespiele",
+  "app": {
+    "farm": {
+      "banner": {
+        "title": "Banner-Titel"
+      }
+    }
+  }
 }
