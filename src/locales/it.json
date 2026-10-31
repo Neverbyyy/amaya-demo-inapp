@@ -2729,7 +2729,10 @@
     "farm": {
       "banner": {
         "title": "Titolo del banner",
-        "title_1": "Benvenuto nella fattoria!"
+        "title_1": "Benvenuto nella fattoria!",
+        "title_2": "Conosci tutti gli animali della fattoria",
+        "title_3": "Coltiva, raccogli e gioca!",
+        "title_4": "Sblocca tutta la fattoria oggi"
       }
     }
   }

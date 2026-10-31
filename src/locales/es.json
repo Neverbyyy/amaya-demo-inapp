@@ -2730,7 +2730,10 @@
     "farm": {
       "banner": {
         "title": "Título del banner",
-        "title_1": "¡Bienvenido a la granja!"
+        "title_1": "¡Bienvenido a la granja!",
+        "title_2": "Conoce a todos los animales de la granja",
+        "title_3": "¡Cultiva, cosecha y juega!",
+        "title_4": "Desbloquea toda la granja hoy"
       }
     }
   }
