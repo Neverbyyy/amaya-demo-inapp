@@ -2724,5 +2724,12 @@
     "lifetime_only": "Apenas",
     "one_time_payment": "Pague uma vez"
   },
-  "1000+ educational math games": "1000+ jogos didáticos de matemática"
+  "1000+ educational math games": "1000+ jogos didáticos de matemática",
+  "app": {
+    "farm": {
+      "banner": {
+        "title": "Título do banner"
+      }
+    }
+  }
 }
