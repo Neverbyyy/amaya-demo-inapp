@@ -2929,7 +2929,9 @@
   "app": {
     "farm": {
       "banner": {
-        "title": "Banner titlekasd"
+        "title": "Banner titlekasd",
+        "title_1": "Welcome to the farm!",
+        "title_2": "Meet all the farm animals"
       },
       "onboarding": {
         "title_1": "onboarding title"
