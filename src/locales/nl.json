@@ -2723,7 +2723,8 @@
   "app": {
     "farm": {
       "banner": {
-        "title": "Bannertitel"
+        "title": "Bannertitel",
+        "title_1": "Welkom op de boerderij!"
       }
     }
   }

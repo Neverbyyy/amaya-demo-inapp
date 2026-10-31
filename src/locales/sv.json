@@ -2722,7 +2722,8 @@
   "app": {
     "farm": {
       "banner": {
-        "title": "Bannerrubrik"
+        "title": "Bannerrubrik",
+        "title_1": "Välkommen till gården!"
       }
     }
   }

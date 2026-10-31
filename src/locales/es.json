@@ -2729,7 +2729,8 @@
   "app": {
     "farm": {
       "banner": {
-        "title": "Título del banner"
+        "title": "Título del banner",
+        "title_1": "¡Bienvenido a la granja!"
       }
     }
   }

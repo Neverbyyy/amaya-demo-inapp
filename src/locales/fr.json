@@ -2728,7 +2728,8 @@
   "app": {
     "farm": {
       "banner": {
-        "title": "Titre de la bannière"
+        "title": "Titre de la bannière",
+        "title_1": "Bienvenue à la ferme !"
       }
     }
   }
