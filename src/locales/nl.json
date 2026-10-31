@@ -2724,7 +2724,10 @@
     "farm": {
       "banner": {
         "title": "Bannertitel",
-        "title_1": "Welkom op de boerderij!"
+        "title_1": "Welkom op de boerderij!",
+        "title_2": "Ontmoet alle dieren op de boerderij",
+        "title_3": "Kweek, oogst en speel!",
+        "title_4": "Ontgrendel vandaag de hele boerderij"
       }
     }
   }

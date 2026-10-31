@@ -2729,7 +2729,10 @@
     "farm": {
       "banner": {
         "title": "Título do banner",
-        "title_1": "Bem-vindo à fazenda!"
+        "title_1": "Bem-vindo à fazenda!",
+        "title_2": "Conheça todos os animais da fazenda",
+        "title_3": "Plante, colha e brinque!",
+        "title_4": "Desbloqueie a fazenda inteira hoje"
       }
     }
   }

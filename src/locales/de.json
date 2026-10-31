@@ -2730,7 +2730,10 @@
     "farm": {
       "banner": {
         "title": "Banner-Titel",
-        "title_1": "Willkommen auf dem Bauernhof!"
+        "title_1": "Willkommen auf dem Bauernhof!",
+        "title_2": "Lerne alle Tiere vom Bauernhof kennen",
+        "title_3": "Pflanzen, ernten und spielen!",
+        "title_4": "Schalte heute den ganzen Bauernhof frei"
       }
     }
   }

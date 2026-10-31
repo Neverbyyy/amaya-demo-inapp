@@ -2729,7 +2729,10 @@
     "farm": {
       "banner": {
         "title": "Titre de la bannière",
-        "title_1": "Bienvenue à la ferme !"
+        "title_1": "Bienvenue à la ferme !",
+        "title_2": "Découvre tous les animaux de la ferme",
+        "title_3": "Plante, récolte et joue !",
+        "title_4": "Débloque toute la ferme dès aujourd'hui"
       }
     }
   }
