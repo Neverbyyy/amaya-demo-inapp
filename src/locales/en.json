@@ -825,7 +825,7 @@
   "only_price_week": "only {0}/week",
   "1_week_plan": "1 week",
   "6_months_plan": "6 months",
-  "7_day_trial": "7-day free trial",
+  "7_day_trial": "7-day free trialll",
   "under_text_6_months": "<b>{0} days FREE</b>, then {1}/6 months.",
   "under_text_1_week": "<b>{0} days FREE</b>, then {1}/week.",
   "more_apps_plus_cancel_anytime_new": "Cancel anytime.",
@@ -2929,7 +2929,7 @@
   "app": {
     "farm": {
       "banner": {
-        "title": "Banner title"
+        "title": "Banner titlekasd"
       },
       "onboarding": {
         "title_1": "onboarding title"
