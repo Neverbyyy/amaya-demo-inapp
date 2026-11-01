@@ -2926,6 +2926,18 @@
     "lifetime_only": "Only",
     "one_time_payment": "One-time payment"
   },
+  "common": {
+    "button": {
+      "restore": "Restore purchases"
+    },
+    "legal": {
+      "cancel_anytime": "Cancel anytime"
+    },
+    "link": {
+      "privacy_policy": "Privacy Policy",
+      "terms_of_use": "Terms of Useasd"
+    }
+  },
   "app": {
     "farm": {
       "banner": {

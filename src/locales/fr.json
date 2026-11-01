@@ -2725,6 +2725,18 @@
     "one_time_payment": "Payez une fois"
   },
   "1000+ educational math games": "1000+ jeux éducatifs de maths",
+  "common": {
+    "button": {
+      "restore": "Restituer les achats"
+    },
+    "legal": {
+      "cancel_anytime": "Annulez à tout moment"
+    },
+    "link": {
+      "privacy_policy": "Politique de confidentialité",
+      "terms_of_use": "Conditions d'utilisation"
+    }
+  },
   "app": {
     "farm": {
       "banner": {

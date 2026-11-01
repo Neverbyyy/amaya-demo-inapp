@@ -2719,6 +2719,18 @@
     "one_time_payment": "Betala en gång"
   },
   "1000+ educational math games": "1000+ lärorika mattespel",
+  "common": {
+    "button": {
+      "restore": "Återställa köp"
+    },
+    "legal": {
+      "cancel_anytime": "Avsluta när som helst"
+    },
+    "link": {
+      "privacy_policy": "Integritetspolicy",
+      "terms_of_use": "Användarvillkor"
+    }
+  },
   "app": {
     "farm": {
       "banner": {

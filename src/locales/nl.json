@@ -2720,6 +2720,18 @@
     "one_time_payment": "Betaal één keer"
   },
   "1000+ educational math games": "1000+ educatieve rekenspellen",
+  "common": {
+    "button": {
+      "restore": "Herstel aankopen"
+    },
+    "legal": {
+      "cancel_anytime": "Op ieder moment opzegbaar"
+    },
+    "link": {
+      "privacy_policy": "Privacybeleid",
+      "terms_of_use": "Gebruiksvoorwaarden"
+    }
+  },
   "app": {
     "farm": {
       "banner": {

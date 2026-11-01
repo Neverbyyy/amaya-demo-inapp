@@ -2726,6 +2726,18 @@
     "one_time_payment": "Bezahlen Sie einmal"
   },
   "1000+ educational math games": "1000+ lehrreiche Mathespiele",
+  "common": {
+    "button": {
+      "restore": "Käufe wiederherstellen"
+    },
+    "legal": {
+      "cancel_anytime": "Jederzeit kündbar"
+    },
+    "link": {
+      "privacy_policy": "Datenschutzerklärung",
+      "terms_of_use": "Nutzungsbedingungen"
+    }
+  },
   "app": {
     "farm": {
       "banner": {

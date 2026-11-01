@@ -2868,6 +2868,18 @@
     "lifetime_only": "Всего",
     "one_time_payment": "Платите один раз"
   },
+  "common": {
+    "button": {
+      "restore": "Восстановить покупки"
+    },
+    "legal": {
+      "cancel_anytime": "Можно отменить в любое время"
+    },
+    "link": {
+      "privacy_policy": "Политика конфиденциальности",
+      "terms_of_use": "Пользовательское соглашение"
+    }
+  },
   "app": {
     "farm": {
       "banner": {
