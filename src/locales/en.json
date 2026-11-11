@@ -2926,17 +2926,193 @@
     "lifetime_only": "Only",
     "one_time_payment": "One-time payment"
   },
+  "common": {
+    "badge": {
+      "best_offer": "Best offer"
+    },
+    "benefit": {
+      "no_ads": "No ads",
+      "no_extra_payments": "No additional payments"
+    },
+    "button": {
+      "back": "Back",
+      "continue": {
+        "default": "Continue"
+      },
+      "play_free": "Play for free!",
+      "restore": "Restore purchases",
+      "try_free": "Try for free",
+      "try_free_days": "Try FREE for {days} day | Try FREE for {days} days",
+      "unlock": "Unlock",
+      "unlock_for": "Unlock for {price}",
+      "whats_included": "What’s included"
+    },
+    "legal": {
+      "all_rights_reserved": "All rights reserved",
+      "cancel_anytime": "Cancel anytime",
+      "no_payment_now": "No payment now"
+    },
+    "link": {
+      "more_plans": "More plans",
+      "privacy_policy": "Privacy Policy",
+      "terms_of_use": "Terms of Use"
+    },
+    "period": {
+      "per_month": "per month",
+      "per_week": "per week",
+      "per_year": "per year"
+    },
+    "plan": {
+      "group_label": "Subscription plans",
+      "monthly": "Monthly",
+      "weekly": "Weekly",
+      "weekly_access": "Weekly access",
+      "yearly": "Yearly",
+      "yearly_access": "Yearly access"
+    },
+    "plus": {
+      "feature": {
+        "activities": "Lots of useful activities",
+        "apps": "{count}+ apps",
+        "hours": "1000+ hours of play",
+        "offline": "Play offline",
+        "safe_fun": "Safe, fun, and ad-free",
+        "updates": "Regular updates"
+      },
+      "full_access": "Full access to all of Amaya Plus apps.",
+      "info": {
+        "apps": "Over {count} fun and educational apps",
+        "audience": "For {boys} and {girls} aged 2-7",
+        "boys": "boys",
+        "girls": "girls"
+      },
+      "logo": {
+        "label": "Amaya Plus"
+      },
+      "slide": {
+        "apps": {
+          "text": "Full access to all of AmayaKids apps.",
+          "title": "{count}+ Apps"
+        },
+        "educational": {
+          "text": "Games that develop creative thinking and useful skills.",
+          "title": "Educational and fun content"
+        },
+        "offline": {
+          "text": "No Internet? It’s OK! You can play offline.",
+          "title": "Play offline"
+        },
+        "privacy": {
+          "text": "We will never share your information.",
+          "title": "Privacy-protected"
+        },
+        "trusted": {
+          "text": "Loved and trusted by millions of parents and kids.",
+          "title": "Safe and kid-friendly"
+        }
+      },
+      "tag": {
+        "animals": "animals",
+        "coloring_pages": "coloring pages",
+        "dinosaurs": "dinosaurs",
+        "fairy_tales": "fairy tales",
+        "puzzles": "puzzles"
+      },
+      "title": {
+        "unlimited": "Get unlimited access",
+        "unlimited_apps": "Get unlimited access to {count}+ apps"
+      }
+    },
+    "price": {
+      "just_per_week": "Just {price} per week",
+      "just_per_year": "Just {price}/year",
+      "per_week": "{price} per week",
+      "per_week_short": "{price}/week",
+      "per_year": "{price} per year",
+      "per_year_short": "{price}/year"
+    },
+    "trial": {
+      "any_plan_free": "Any plan free for {days} day | Any plan free for {days} days",
+      "days_free": "{days} day free | {days} days free",
+      "free_trial": "Free trial",
+      "then_per_month": "{days} day free, then {price} per month. | {days} days free, then {price} per month.",
+      "then_per_week": "{days} day free, then {price} per week. | {days} days free, then {price} per week.",
+      "then_per_year": "{days} day free, then {price} per year. | {days} days free, then {price} per year.",
+      "then_price": "then {price}"
+    }
+  },
   "app": {
+    "cars2": {
+      "paywall": {
+        "info": {
+          "cars": "All cars in this app"
+        },
+        "title": {
+          "all_cars": "All cars",
+          "and_apps": "and {apps}",
+          "apps": "{count}+ fun apps",
+          "subscription": "in ONE subscription!"
+        }
+      }
+    },
+    "dino2": {
+      "paywall": {
+        "test_title": "Test title"
+      }
+    },
     "farm": {
       "banner": {
-        "title": "Banner titlekasd",
+        "title": "Banner title",
         "title_1": "Welcome to the farm!",
         "title_2": "Meet all the farm animals",
         "title_3": "Grow, harvest and play!",
         "title_4": "Unlock the whole farm today"
       },
       "onboarding": {
+        "step_1": {
+          "text": "Winner of multiple kids’ app awards, this fun and educational adventure helps young learners explore the world of farm and wild animals, discover fruits and vegetables, and learn through play in a joyful, interactive way.",
+          "title": "Loved by parents, approved by teachers"
+        },
+        "step_2": {
+          "text": "Unlock a world of creative and educational apps — all in one place! Explore coloring pages, fairy tales, racing, animals, and more. Endless fun for boys and girls!",
+          "title": "More than just Farm! Enjoy {count}+ apps"
+        },
         "title_1": "onboarding title"
+      }
+    }
+  },
+  "ds": {
+    "close_button": {
+      "aria": {
+        "label": "Close"
+      }
+    },
+    "rating": {
+      "aria": {
+        "label": "Rated {rating} out of 5"
+      }
+    },
+    "slides": {
+      "dot": {
+        "label": "Slide {number}"
+      }
+    },
+    "spinner": {
+      "aria": {
+        "label": "Loading"
+      }
+    },
+    "store_badges": {
+      "app_store": {
+        "label": "Download on the App Store"
+      },
+      "google_play": {
+        "label": "Get it on Google Play"
+      }
+    },
+    "video": {
+      "play": {
+        "label": "Play video"
       }
     }
   }

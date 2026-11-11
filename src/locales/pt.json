@@ -2725,7 +2725,135 @@
     "one_time_payment": "Pague uma vez"
   },
   "1000+ educational math games": "1000+ jogos didáticos de matemática",
+  "common": {
+    "badge": {
+      "best_offer": "Melhor oferta"
+    },
+    "benefit": {
+      "no_ads": "Sem anúncios",
+      "no_extra_payments": "Sem pagamentos adicionais"
+    },
+    "button": {
+      "back": "Voltar",
+      "continue": {
+        "default": "Continuar"
+      },
+      "play_free": "Jogue grátis!",
+      "restore": "Restaurar compras",
+      "try_free": "Experimentar grátis",
+      "try_free_days": "Experimente {days} dia GRÁTIS | Experimente {days} dias GRÁTIS",
+      "unlock": "Desbloquear",
+      "unlock_for": "Desbloqueie por {price}",
+      "whats_included": "O que está incluído"
+    },
+    "legal": {
+      "all_rights_reserved": "Todos os direitos reservados",
+      "cancel_anytime": "Cancele quando quiser",
+      "no_payment_now": "Sem pagamentos agora"
+    },
+    "link": {
+      "more_plans": "Mais planos",
+      "privacy_policy": "Política de Privacidade",
+      "terms_of_use": "Termos de Uso"
+    },
+    "period": {
+      "per_month": "por mês",
+      "per_week": "por semana",
+      "per_year": "por ano"
+    },
+    "plan": {
+      "group_label": "Planos de assinatura",
+      "monthly": "Mensal",
+      "weekly": "Semanal",
+      "weekly_access": "Semanal",
+      "yearly": "Anual",
+      "yearly_access": "Anual"
+    },
+    "plus": {
+      "feature": {
+        "activities": "Muitas atividades úteis",
+        "apps": "{count}+ aplicações",
+        "hours": "1000+ horas de diversão",
+        "offline": "Jogar offline",
+        "safe_fun": "Seguro, divertido e sem anúncios",
+        "updates": "Atualizações frequentes"
+      },
+      "full_access": "Acesso completo a todas as aplicações Amaya Plus.",
+      "info": {
+        "apps": "Mais de {count} apps divertidos e educativos",
+        "audience": "Para {boys} e {girls} de 2 a 7 anos",
+        "boys": "meninos",
+        "girls": "meninas"
+      },
+      "logo": {
+        "label": "Amaya Plus"
+      },
+      "slide": {
+        "apps": {
+          "text": "Acesso total a todas as aplicações AmayaKids.",
+          "title": "{count}+ aplicações"
+        },
+        "educational": {
+          "text": "Jogos que desenvolvem o pensamento criativo e capacidades úteis.",
+          "title": "Didáticos e divertidos"
+        },
+        "offline": {
+          "text": "Sem internet? Não há problema! Podes jogar offline.",
+          "title": "Jogar offline"
+        },
+        "privacy": {
+          "text": "Nunca partilharemos a tua informação.",
+          "title": "Proteção de privacidade"
+        },
+        "trusted": {
+          "text": "Apreciada e confiada por milhões de pais e filhos.",
+          "title": "Segura e adequada para crianças"
+        }
+      },
+      "tag": {
+        "animals": "animais",
+        "coloring_pages": "desenhos para colorir",
+        "dinosaurs": "dinossauros",
+        "fairy_tales": "contos de fadas",
+        "puzzles": "quebra-cabeças"
+      },
+      "title": {
+        "unlimited": "Obtenha acesso ilimitado",
+        "unlimited_apps": "Obtenha acesso ilimitado a {count}+ aplicações"
+      }
+    },
+    "price": {
+      "just_per_week": "Apenas {price} por semana",
+      "just_per_year": "Apenas {price}/ano",
+      "per_week": "{price} por semana",
+      "per_week_short": "{price}/semana",
+      "per_year": "{price} por ano",
+      "per_year_short": "{price}/ano"
+    },
+    "trial": {
+      "any_plan_free": "Qualquer plano grátis por {days} dia | Qualquer plano grátis por {days} dias",
+      "days_free": "{days} dia grátis | {days} dias grátis",
+      "free_trial": "Teste grátis",
+      "then_per_month": "{days} dia grátis, depois {price} por mês. | {days} dias grátis, depois {price} por mês.",
+      "then_per_week": "{days} dia grátis, depois {price} por semana. | {days} dias grátis, depois {price} por semana.",
+      "then_per_year": "{days} dia grátis, depois {price} por ano. | {days} dias grátis, depois {price} por ano.",
+      "then_price": "depois {price}"
+    }
+  },
   "app": {
+    "cars2": {
+      "paywall": {
+        "info": {
+          "cars": "Todos os carros neste app"
+        },
+        "title": {
+          "all_cars": "Todos os carros",
+          "and_apps": "e {apps}",
+          "apps": "mais de {count} apps divertidos",
+          "subscription": "em UMA única assinatura!"
+        }
+      }
+    },
     "farm": {
       "banner": {
         "title": "Título do banner",
@@ -2733,6 +2861,51 @@
         "title_2": "Conheça todos os animais da fazenda",
         "title_3": "Plante, colha e brinque!",
         "title_4": "Desbloqueie a fazenda inteira hoje"
+      },
+      "onboarding": {
+        "step_1": {
+          "text": "Vencedor de vários prêmios de aplicativos infantis! Esta divertida e educativa aventura ajuda as crianças a explorar o mundo dos animais da fazenda e selvagens, descobrir frutas e vegetais e aprender brincando de forma alegre e interativa.",
+          "title": "Amado pelos pais, aprovado pelos professores"
+        },
+        "step_2": {
+          "text": "Desbloqueie um mundo de apps criativos e educativos – tudo em um só lugar! Explore páginas para colorir, contos de fadas, corridas, animais e muito mais. Diversão sem fim para meninos e meninas!",
+          "title": "Muito mais que uma fazenda! Curta {count}+ apps"
+        }
+      }
+    }
+  },
+  "ds": {
+    "close_button": {
+      "aria": {
+        "label": "Fechar"
+      }
+    },
+    "rating": {
+      "aria": {
+        "label": "Avaliação: {rating} de 5"
+      }
+    },
+    "slides": {
+      "dot": {
+        "label": "Slide {number}"
+      }
+    },
+    "spinner": {
+      "aria": {
+        "label": "Carregando"
+      }
+    },
+    "store_badges": {
+      "app_store": {
+        "label": "Baixar na App Store"
+      },
+      "google_play": {
+        "label": "Disponível no Google Play"
+      }
+    },
+    "video": {
+      "play": {
+        "label": "Reproduzir vídeo"
       }
     }
   }

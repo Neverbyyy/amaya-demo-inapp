@@ -2726,7 +2726,135 @@
     "one_time_payment": "Paga una vez"
   },
   "1000+ educational math games": "1000+ juegos educativos de matemáticas",
+  "common": {
+    "badge": {
+      "best_offer": "Mejor oferta"
+    },
+    "benefit": {
+      "no_ads": "Sin anuncios",
+      "no_extra_payments": "Sin pagos adicionales"
+    },
+    "button": {
+      "back": "Atrás",
+      "continue": {
+        "default": "Continuar"
+      },
+      "play_free": "¡Juega gratis!",
+      "restore": "Restaurar compras",
+      "try_free": "Probar gratis",
+      "try_free_days": "Prueba {days} día GRATIS | Prueba {days} días GRATIS",
+      "unlock": "Desbloquear",
+      "unlock_for": "Desbloquear por {price}",
+      "whats_included": "Qué incluye"
+    },
+    "legal": {
+      "all_rights_reserved": "Todos los derechos reservados",
+      "cancel_anytime": "Cancela en cualquier momento",
+      "no_payment_now": "No pagues ahora"
+    },
+    "link": {
+      "more_plans": "Más planes",
+      "privacy_policy": "Política de Privacidad",
+      "terms_of_use": "Condiciones de Uso"
+    },
+    "period": {
+      "per_month": "al mes",
+      "per_week": "a la semana",
+      "per_year": "al año"
+    },
+    "plan": {
+      "group_label": "Planes de suscripción",
+      "monthly": "Mensual",
+      "weekly": "Semanal",
+      "weekly_access": "Semanal",
+      "yearly": "Anual",
+      "yearly_access": "Anual"
+    },
+    "plus": {
+      "feature": {
+        "activities": "Muchas actividades útiles",
+        "apps": "Más de {count} apps",
+        "hours": "1000+ horas de juego",
+        "offline": "Juego sin conexión",
+        "safe_fun": "Seguro, divertido y sin anuncios",
+        "updates": "Actualizaciones periódicas"
+      },
+      "full_access": "Acceso completo a todas las aplicaciones de Amaya Plus.",
+      "info": {
+        "apps": "Más de {count} apps divertidas y educativas",
+        "audience": "Para {boys} y {girls} de 2 a 7 años",
+        "boys": "niños",
+        "girls": "niñas"
+      },
+      "logo": {
+        "label": "Amaya Plus"
+      },
+      "slide": {
+        "apps": {
+          "text": "Acceso total a todas las aplicaciones de AmayaKids.",
+          "title": "Más de {count} apps"
+        },
+        "educational": {
+          "text": "Juegos que fomentan la creatividad y el desarrollo de habilidades útiles.",
+          "title": "App educativa y divertida"
+        },
+        "offline": {
+          "text": "¿No tienes Internet? ¡No pasa nada! Puedes jugar sin conexión.",
+          "title": "Juego sin conexión"
+        },
+        "privacy": {
+          "text": "Nunca compartiremos tus datos.",
+          "title": "Privacidad protegida"
+        },
+        "trusted": {
+          "text": "Millones de padres, madres y peques nos adoran y confían en nosotros.",
+          "title": "Seguro y apto para niños"
+        }
+      },
+      "tag": {
+        "animals": "animales",
+        "coloring_pages": "dibujos para colorear",
+        "dinosaurs": "dinosaurios",
+        "fairy_tales": "cuentos de hadas",
+        "puzzles": "rompecabezas"
+      },
+      "title": {
+        "unlimited": "Consigue acceso ilimitado",
+        "unlimited_apps": "Consigue acceso ilimitado a {count}+ apps"
+      }
+    },
+    "price": {
+      "just_per_week": "Solo {price} por semana",
+      "just_per_year": "Solo {price}/año",
+      "per_week": "{price} a la semana",
+      "per_week_short": "{price}/semana",
+      "per_year": "{price} al año",
+      "per_year_short": "{price}/año"
+    },
+    "trial": {
+      "any_plan_free": "Cualquier plan gratis durante {days} día | Cualquier plan gratis durante {days} días",
+      "days_free": "{days} día gratis | {days} días gratis",
+      "free_trial": "Prueba gratuita",
+      "then_per_month": "{days} día gratis, y luego {price} al mes. | {days} días gratis, y luego {price} al mes.",
+      "then_per_week": "{days} día gratis, y luego {price} a la semana. | {days} días gratis, y luego {price} a la semana.",
+      "then_per_year": "{days} día gratis, y luego {price} al año. | {days} días gratis, y luego {price} al año.",
+      "then_price": "y luego {price}"
+    }
+  },
   "app": {
+    "cars2": {
+      "paywall": {
+        "info": {
+          "cars": "Todos los coches en esta app"
+        },
+        "title": {
+          "all_cars": "Todos los coches",
+          "and_apps": "y {apps}",
+          "apps": "más de {count} apps divertidas",
+          "subscription": "¡en UNA suscripción!"
+        }
+      }
+    },
     "farm": {
       "banner": {
         "title": "Título del banner",
@@ -2734,6 +2862,51 @@
         "title_2": "Conoce a todos los animales de la granja",
         "title_3": "¡Cultiva, cosecha y juega!",
         "title_4": "Desbloquea toda la granja hoy"
+      },
+      "onboarding": {
+        "step_1": {
+          "text": "¡Ganadora de varios premios a las mejores apps infantiles! Esta divertida y educativa aventura ayuda a los niños a explorar el mundo de los animales de granja y salvajes, descubrir frutas y verduras y aprender jugando de una forma alegre e interactiva.",
+          "title": "Amado por los padres, aprobado por los maestros"
+        },
+        "step_2": {
+          "text": "¡Descubre un mundo de apps creativas y educativas, todo en un solo lugar! Explora dibujos para colorear, cuentos, carreras, animales y mucho más. ¡Diversión sin fin para niños y niñas!",
+          "title": "¡Mucho más que una granja! Disfruta {count}+ apps"
+        }
+      }
+    }
+  },
+  "ds": {
+    "close_button": {
+      "aria": {
+        "label": "Cerrar"
+      }
+    },
+    "rating": {
+      "aria": {
+        "label": "Valoración: {rating} de 5"
+      }
+    },
+    "slides": {
+      "dot": {
+        "label": "Diapositiva {number}"
+      }
+    },
+    "spinner": {
+      "aria": {
+        "label": "Cargando"
+      }
+    },
+    "store_badges": {
+      "app_store": {
+        "label": "Descárgalo en el App Store"
+      },
+      "google_play": {
+        "label": "Disponible en Google Play"
+      }
+    },
+    "video": {
+      "play": {
+        "label": "Reproducir vídeo"
       }
     }
   }

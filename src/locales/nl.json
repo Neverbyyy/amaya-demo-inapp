@@ -2720,7 +2720,135 @@
     "one_time_payment": "Betaal één keer"
   },
   "1000+ educational math games": "1000+ educatieve rekenspellen",
+  "common": {
+    "badge": {
+      "best_offer": "Beste aanbieding"
+    },
+    "benefit": {
+      "no_ads": "Geen advertenties",
+      "no_extra_payments": "Geen extra betalingen"
+    },
+    "button": {
+      "back": "Terug",
+      "continue": {
+        "default": "Doorgaan"
+      },
+      "play_free": "Gratis spelen!",
+      "restore": "Herstel aankopen",
+      "try_free": "Gratis proberen",
+      "try_free_days": "Probeer {days} dag GRATIS | Probeer {days} dagen GRATIS",
+      "unlock": "Ontgrendelen",
+      "unlock_for": "Ontgrendel voor {price}",
+      "whats_included": "Wat is inbegrepen"
+    },
+    "legal": {
+      "all_rights_reserved": "Alle rechten voorbehouden",
+      "cancel_anytime": "Op ieder moment opzegbaar",
+      "no_payment_now": "Je betaalt nu niets"
+    },
+    "link": {
+      "more_plans": "Meer abonnementen",
+      "privacy_policy": "Privacybeleid",
+      "terms_of_use": "Gebruiksvoorwaarden"
+    },
+    "period": {
+      "per_month": "per maand",
+      "per_week": "per week",
+      "per_year": "per jaar"
+    },
+    "plan": {
+      "group_label": "Abonnementen",
+      "monthly": "Maandelijks",
+      "weekly": "Wekelijks",
+      "weekly_access": "Wekelijks",
+      "yearly": "Jaarlijks",
+      "yearly_access": "Jaarlijks"
+    },
+    "plus": {
+      "feature": {
+        "activities": "Veel nuttige activiteiten",
+        "apps": "Meer dan {count} apps",
+        "hours": "1000+ uur speelplezier",
+        "offline": "Speel offline",
+        "safe_fun": "Veilig, leuk en zonder reclame",
+        "updates": "Regelmatige updates"
+      },
+      "full_access": "Volledige toegang tot alle Amaya Plus-apps.",
+      "info": {
+        "apps": "Meer dan {count} leuke en leerzame apps",
+        "audience": "Voor {boys} en {girls} van 2 tot 7 jaar",
+        "boys": "jongens",
+        "girls": "meisjes"
+      },
+      "logo": {
+        "label": "Amaya Plus"
+      },
+      "slide": {
+        "apps": {
+          "text": "Volledige toegang tot alle apps van AmayaKids.",
+          "title": "Meer dan {count} apps"
+        },
+        "educational": {
+          "text": "Spellen die creatief denken en handige vaardigheden ontwikkelen.",
+          "title": "Educatief en leuk"
+        },
+        "offline": {
+          "text": "Geen internet? Da’s prima! Je kunt ook offline spelen.",
+          "title": "Speel offline"
+        },
+        "privacy": {
+          "text": "We zullen je gegevens nooit delen.",
+          "title": "Je privacy wordt beschermd"
+        },
+        "trusted": {
+          "text": "Geliefd en vertrouwd door miljoenen ouders en kinderen.",
+          "title": "Veilig en kindvriendelijk"
+        }
+      },
+      "tag": {
+        "animals": "dieren",
+        "coloring_pages": "kleurplaten",
+        "dinosaurs": "dinosaurussen",
+        "fairy_tales": "sprookjes",
+        "puzzles": "puzzels"
+      },
+      "title": {
+        "unlimited": "Krijg onbeperkte toegang",
+        "unlimited_apps": "Krijg volledige toegang tot {count}+ apps"
+      }
+    },
+    "price": {
+      "just_per_week": "Slechts {price} per week",
+      "just_per_year": "Slechts {price}/jaar",
+      "per_week": "{price} per week",
+      "per_week_short": "{price}/week",
+      "per_year": "{price} per jaar",
+      "per_year_short": "{price}/jaar"
+    },
+    "trial": {
+      "any_plan_free": "Elk abonnement {days} dag gratis | Elk abonnement {days} dagen gratis",
+      "days_free": "{days} dag gratis | {days} dagen gratis",
+      "free_trial": "Gratis proefperiode",
+      "then_per_month": "{days} dag gratis, daarna {price} per maand. | {days} dagen gratis, daarna {price} per maand.",
+      "then_per_week": "{days} dag gratis, daarna {price} per week. | {days} dagen gratis, daarna {price} per week.",
+      "then_per_year": "{days} dag gratis, daarna {price} per jaar. | {days} dagen gratis, daarna {price} per jaar.",
+      "then_price": "daarna {price}"
+    }
+  },
   "app": {
+    "cars2": {
+      "paywall": {
+        "info": {
+          "cars": "Alle auto’s in deze app"
+        },
+        "title": {
+          "all_cars": "Alle auto’s",
+          "and_apps": "en {apps}",
+          "apps": "{count}+ leuke apps",
+          "subscription": "in ÉÉN abonnement!"
+        }
+      }
+    },
     "farm": {
       "banner": {
         "title": "Bannertitel",
@@ -2728,6 +2856,51 @@
         "title_2": "Ontmoet alle dieren op de boerderij",
         "title_3": "Kweek, oogst en speel!",
         "title_4": "Ontgrendel vandaag de hele boerderij"
+      },
+      "onboarding": {
+        "step_1": {
+          "text": "Winnaar van meerdere kinderapp-prijzen! Dit leuke en leerzame avontuur helpt kinderen de wereld van boerderij- en wilde dieren te ontdekken, fruit en groenten te leren kennen en al spelend te leren op een vrolijke, interactieve manier.",
+          "title": "Gewaardeerd door ouders, goedgekeurd door leraren"
+        },
+        "step_2": {
+          "text": "Ontgrendel een wereld vol creatieve en leerzame apps – allemaal op één plek! Ontdek kleurplaten, sprookjes, races, dieren en nog veel meer. Eindeloos plezier voor jongens en meisjes!",
+          "title": "Meer dan alleen een boerderij! Geniet van {count}+ apps"
+        }
+      }
+    }
+  },
+  "ds": {
+    "close_button": {
+      "aria": {
+        "label": "Sluiten"
+      }
+    },
+    "rating": {
+      "aria": {
+        "label": "Beoordeling: {rating} van 5"
+      }
+    },
+    "slides": {
+      "dot": {
+        "label": "Dia {number}"
+      }
+    },
+    "spinner": {
+      "aria": {
+        "label": "Laden"
+      }
+    },
+    "store_badges": {
+      "app_store": {
+        "label": "Download in de App Store"
+      },
+      "google_play": {
+        "label": "Ontdek het op Google Play"
+      }
+    },
+    "video": {
+      "play": {
+        "label": "Video afspelen"
       }
     }
   }
