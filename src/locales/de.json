@@ -2726,7 +2726,135 @@
     "one_time_payment": "Bezahlen Sie einmal"
   },
   "1000+ educational math games": "1000+ lehrreiche Mathespiele",
+  "common": {
+    "badge": {
+      "best_offer": "Bestes Angebot"
+    },
+    "benefit": {
+      "no_ads": "Keine Werbung",
+      "no_extra_payments": "Keine zusätzlichen Zahlungen"
+    },
+    "button": {
+      "back": "Zurück",
+      "continue": {
+        "default": "Weiter"
+      },
+      "play_free": "Kostenlos spielen!",
+      "restore": "Käufe wiederherstellen",
+      "try_free": "Kostenlos testen",
+      "try_free_days": "Testen Sie {days} Tag KOSTENLOS | Testen Sie {days} Tage KOSTENLOS",
+      "unlock": "Freischalten",
+      "unlock_for": "Freischalten für {price}",
+      "whats_included": "Was ist enthalten"
+    },
+    "legal": {
+      "all_rights_reserved": "Alle Rechte vorbehalten",
+      "cancel_anytime": "Jederzeit kündbar",
+      "no_payment_now": "Jetzt keine Zahlung"
+    },
+    "link": {
+      "more_plans": "Weitere Abos",
+      "privacy_policy": "Datenschutzerklärung",
+      "terms_of_use": "Nutzungsbedingungen"
+    },
+    "period": {
+      "per_month": "pro Monat",
+      "per_week": "pro Woche",
+      "per_year": "pro Jahr"
+    },
+    "plan": {
+      "group_label": "Abo-Optionen",
+      "monthly": "Monatlich",
+      "weekly": "Wöchentlich",
+      "weekly_access": "Wöchentlich",
+      "yearly": "Jährlich",
+      "yearly_access": "Jährlich"
+    },
+    "plus": {
+      "feature": {
+        "activities": "Viele nützliche Aktivitäten",
+        "apps": "Mehr als {count} Apps",
+        "hours": "1000+ Stunden Spielspaß",
+        "offline": "Offline spielen",
+        "safe_fun": "Sicher, lustig und werbefrei",
+        "updates": "Regelmäßige Updates"
+      },
+      "full_access": "Voller Zugriff auf alle Amaya Plus-Apps.",
+      "info": {
+        "apps": "Über {count} unterhaltsame und lehrreiche Apps",
+        "audience": "Für 2–7 Jahre alte {boys} & {girls}",
+        "boys": "Jungen",
+        "girls": "Mädchen"
+      },
+      "logo": {
+        "label": "Amaya Plus"
+      },
+      "slide": {
+        "apps": {
+          "text": "Voller Zugang zu allen AmayaKids-Apps.",
+          "title": "Mehr als {count} Apps"
+        },
+        "educational": {
+          "text": "Spiele, die kreatives Denken und nützliche Fähigkeiten entwickeln.",
+          "title": "Lernen und Spaß"
+        },
+        "offline": {
+          "text": "Kein Internet? Kein Problem! Ihr könnt offline spielen.",
+          "title": "Offline spielen"
+        },
+        "privacy": {
+          "text": "Wir geben Ihre Informationen niemals weiter.",
+          "title": "Schutz der Privatsphäre"
+        },
+        "trusted": {
+          "text": "Millionen von Eltern und Kindern lieben und vertrauen uns.",
+          "title": "Sicher und kindgerecht"
+        }
+      },
+      "tag": {
+        "animals": "Tiere",
+        "coloring_pages": "Malvorlagen",
+        "dinosaurs": "Dinosaurier",
+        "fairy_tales": "Märchen",
+        "puzzles": "Puzzles"
+      },
+      "title": {
+        "unlimited": "Unbegrenzten Zugang erhalten",
+        "unlimited_apps": "Erhalten Sie vollen Zugriff auf {count}+ Apps"
+      }
+    },
+    "price": {
+      "just_per_week": "Nur {price} pro Woche",
+      "just_per_year": "Nur {price} / Jahr",
+      "per_week": "{price} pro Woche",
+      "per_week_short": "{price} / Woche",
+      "per_year": "{price} pro Jahr",
+      "per_year_short": "{price} / Jahr"
+    },
+    "trial": {
+      "any_plan_free": "Jedes Abonnement {days} Tag kostenlos | Jedes Abonnement {days} Tage kostenlos",
+      "days_free": "{days} Tag gratis | {days} Tage gratis",
+      "free_trial": "Gratis testen",
+      "then_per_month": "{days} Tag kostenlos, dann {price} pro Monat. | {days} Tage kostenlos, dann {price} pro Monat.",
+      "then_per_week": "{days} Tag kostenlos, dann {price} pro Woche. | {days} Tage kostenlos, dann {price} pro Woche.",
+      "then_per_year": "{days} Tag kostenlos, dann {price} pro Jahr. | {days} Tage kostenlos, dann {price} pro Jahr.",
+      "then_price": "dann {price}"
+    }
+  },
   "app": {
+    "cars2": {
+      "paywall": {
+        "info": {
+          "cars": "Alle Autos in dieser App"
+        },
+        "title": {
+          "all_cars": "Alle Autos",
+          "and_apps": "und {apps}",
+          "apps": "über {count} lustige Apps",
+          "subscription": "in EINEM Abonnement!"
+        }
+      }
+    },
     "farm": {
       "banner": {
         "title": "Banner-Titel",
@@ -2734,6 +2862,51 @@
         "title_2": "Lerne alle Tiere vom Bauernhof kennen",
         "title_3": "Pflanzen, ernten und spielen!",
         "title_4": "Schalte heute den ganzen Bauernhof frei"
+      },
+      "onboarding": {
+        "step_1": {
+          "text": "Gewinner mehrerer Kinder-App-Preise! Dieses unterhaltsame und lehrreiche Abenteuer hilft Kindern, die Welt der Bauernhof- und Wildtiere zu entdecken, Obst und Gemüse kennenzulernen und spielerisch zu lernen – fröhlich und interaktiv.",
+          "title": "Von Eltern geliebt, von Lehrern empfohlen"
+        },
+        "step_2": {
+          "text": "Entdecke eine Welt kreativer und lehrreicher Apps – alles an einem Ort! Malvorlagen, Märchen, Rennen, Tiere und mehr. Unendlicher Spaß für Jungen und Mädchen!",
+          "title": "Mehr als nur ein Bauernhof! Genieße {count}+ Apps"
+        }
+      }
+    }
+  },
+  "ds": {
+    "close_button": {
+      "aria": {
+        "label": "Schließen"
+      }
+    },
+    "rating": {
+      "aria": {
+        "label": "Bewertung: {rating} von 5"
+      }
+    },
+    "slides": {
+      "dot": {
+        "label": "Folie {number}"
+      }
+    },
+    "spinner": {
+      "aria": {
+        "label": "Wird geladen"
+      }
+    },
+    "store_badges": {
+      "app_store": {
+        "label": "Laden im App Store"
+      },
+      "google_play": {
+        "label": "Jetzt bei Google Play"
+      }
+    },
+    "video": {
+      "play": {
+        "label": "Video abspielen"
       }
     }
   }
